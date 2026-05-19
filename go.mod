@@ -1,4 +1,4 @@
-module github.com/ligo-auth
+module github.com/linkeunid/ligo-auth
 
 go 1.25.10
 
